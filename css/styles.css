@@ -1,0 +1,46 @@
+/* styles.css*/
+html, body {
+  height: 100%;
+  font-family: 'Roboto', sans-serif; }
+
+/* cover */
+#cover {
+  background: #222 url(../img/stars.jpg) center center no-repeat;
+  background-color: cover;
+  color: white;
+  height: 100%;
+  display: flex;
+  align-items: center; }
+
+#cover-caption {
+  width: 100%; }
+
+#about {
+  background: url("../img/girlincar.jpg") center center no-repeat;
+  background-size: cover; }
+
+.about-text {
+  background: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 30px; }
+
+#footer-main {
+  background: #222;
+  color: white;
+  font-size: 0.8rem;
+  padding: 2.5rem 0; }
+
+.display-3 {
+  font-size: 2.5rem;
+  font-weight: 300;
+  line-height: 1.2; }
+
+#modal {
+  padding: 20px 0;
+  text-align: center; }
+
+#pagination {
+  padding: 25px 30px; }
+
+.section-content {
+  padding: 30px 0; }
