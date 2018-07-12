@@ -40,7 +40,27 @@ html, body {
   text-align: center; }
 
 #pagination {
-  padding: 25px 30px; }
+  padding: 12px 12px; }
 
 .section-content {
   padding: 30px 0; }
+
+.sr-only {
+  position: relative;
+  width: 60px;
+  height: 17px; }
+
+.text-muted {
+  color: blue !important; }
+
+.btn-primary {
+  color: black; }
+
+a {
+  color: burlywood; }
+
+.btn-success {
+  color: black; }
+
+.page-link {
+  color: black; }
