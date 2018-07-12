@@ -64,3 +64,6 @@ a {
 
 .page-link {
   color: black; }
+
+.pagination {
+  justify-content: center; }
