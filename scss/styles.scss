@@ -39,7 +39,7 @@ html,body {
     }
 
     .display-3 {
-        font-size: 2.5rem;
+        font-size: 1.5rem;
         font-weight: 300;
         line-height: 1.2;
     }
@@ -47,10 +47,6 @@ html,body {
     #modal{
         padding: 20px 0;
         text-align: center;
-    }
-
-    #pagination{
-        padding: 12px 12px;
     }
 
     .section-content{
@@ -84,4 +80,5 @@ html,body {
 
     .pagination {        
         justify-content: center;
+        padding-top: 10px;
     }
